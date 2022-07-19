@@ -6,8 +6,8 @@ The Tic-tac-toe is a game for two players, X and O, who take turns marking the s
 
 
 
-*** features  ***
 
+*** features  ***
 
 As it is common, in the proposed system we implemented an NxN grid. The user can the select grid size from 3 to 8. Because if we enter size less than or equal to 2 the game will become invalid and if enter more 8 then screen fitting might be a problem. We also implemented game mode as a choice for the user to select. Game mode is of two types, player vs player and player vs computer. Background music feature is also added for the game. If the user is not comfortable with background music, it can be  muted.
 
